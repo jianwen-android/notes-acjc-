@@ -1,0 +1,13 @@
+{
+  "translucency": false,
+  "cssTheme": "Tokyo Night",
+  "baseFontSize": 17,
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "enabledCssSnippets": [
+    "checkbox",
+    "twocolumns",
+    "timeline-snippet"
+  ],
+  "accentColor": ""
+}

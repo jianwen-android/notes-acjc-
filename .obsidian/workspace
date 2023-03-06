@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "73c7e370ce4f704f",
+    "type": "split",
+    "children": [
+      {
+        "id": "97a57066d9f58e6e",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "History/A. Cold War in Europe/A.3 How did the East & West battle over the Cold War.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "de6aef2d719b9a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6361cde7925ed92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d4b1f07ed9e2e4f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e921156b13b3e80e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "78d3961361c8419f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "truman doctrine",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 389.49999809265137
+  },
+  "right": {
+    "id": "8d819f627f6911bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca63260f73bf45c3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c66a1a33d1e6d35b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "History/A. Cold War in Europe/A.3 How did the East & West battle over the Cold War.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6a4bedf807f7c71",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "History/A. Cold War in Europe/A.3 How did the East & West battle over the Cold War.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "48c2ff5dd6bfbd49",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4f300069a4b30c25",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "History/A. Cold War in Europe/A.3 How did the East & West battle over the Cold War.md"
+              }
+            }
+          },
+          {
+            "id": "0c0fe8376215ba38",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "97a57066d9f58e6e",
+  "lastOpenFiles": [
+    "History/4 & 6. Outbreak of World War II/Nazi-Soviet Pact.md",
+    "History/4 & 6. Outbreak of World War II/4 & 6. Outbreak of World War II.md",
+    "History/History.md",
+    "Computing+/Computing+.md",
+    "Computing+/Chapter 2/Chapter 2.md",
+    "Physics/Physics.md",
+    "Physics/Quick Notes/Quick Notes.md",
+    "Physics/Quick Notes/16 Static Electricity.md",
+    "Physics/Quick Notes/17 Current of Electricity.md",
+    "Physics/Quick Notes/16 Electromagnetic Induction.md"
+  ]
+}
